@@ -1,0 +1,5 @@
+node_modules/
+releases/
+*.log
+.DS_Store
+.env
