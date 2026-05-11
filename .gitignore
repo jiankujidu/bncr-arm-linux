@@ -3,3 +3,7 @@ releases/
 *.log
 .DS_Store
 .env
+dist/
+build/
+*.tgz
+*.zip
